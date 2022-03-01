@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 
 # so we can use big data storage instead
-data/
+# data/
